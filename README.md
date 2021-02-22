@@ -1,6 +1,6 @@
 # Hackintosh-redmibook-14
 
-HDMI输出和睡眠有问题
+HDMI输出和睡眠有问题，触摸板没有多指手势
 
 电脑配置
 
