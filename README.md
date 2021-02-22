@@ -1,6 +1,6 @@
 # Hackintosh-redmibook-14
 
-
+HDMI输出和睡眠有问题
 
 电脑配置
 
